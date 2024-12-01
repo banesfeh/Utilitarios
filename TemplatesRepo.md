@@ -12,7 +12,7 @@ Aqui estão algumas estatísticas e gráficos relacionados ao seu perfil no GitH
 <img min-width="100px" max-width="400px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=banesfeh&theme=radical&hide_border=true" />
 
 ## Gráfico de Atividade do GitHub
-<img min-width="100px" max-width="400px" width="400px" src="https://activity-graph.herokuapp.com/graph?username=banesfeh&theme=redical" />
+<img min-width="100px" max-width="400px" width="400px" src="https://activity-graph.herokuapp.com/graph?username=banesfeh" />
 
 ## Repositórios Mais Populares
 <img min-width="100px" max-width="400px" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=banesfeh&theme=radical&hide_border=true" />
